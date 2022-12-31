@@ -18,7 +18,7 @@
 
 - `rm -rf X-BOMB`
 - `git clone https://github.com/H4X-GG/X-BOMB.git`
-- `cd DUMPER`
+- `cd X-BOMB`
 - `python xbomb.py`
 
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
